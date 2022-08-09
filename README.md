@@ -1,4 +1,4 @@
-# <b><tt><i>SHEWON-MD-BOT</i></b></tt>
+# <b><tt><i>QUEEN THARU-MD-BOT</i></b></tt>
 <br>
 
 [![Typing SVG](https://bit.ly/3aPnjLk)](https://git.io/typing-svg)
