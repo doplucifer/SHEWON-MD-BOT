@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
+global.owner = ['14386008837','']
+global.premium = ['14386008837','94784997828']
+global.botname = '🧚QUEEN THARU MD🧚'
+global.ownername = 'Lucifer'
 global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
 global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
+global.packname = '🧚Quenn Tharu🧚'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,13 +65,13 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'SHEWON'
+global.author = 'LUCIFER'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
+    success: '*Done✅*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
