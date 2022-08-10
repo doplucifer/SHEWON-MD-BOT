@@ -17,7 +17,7 @@
  <h1><b><i>QUEEN THARU MULTI DEVICE BOT</i></b></h1>
   
 <br>
-<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY SHEWON ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
+<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY LUCIFER ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
 <br><div algin="center"><img src=
       "https://profile-counter.glitch.me/CyberKing4/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
 <p align="center">
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<h1><b><i>INSTALL SHEWON MD BOT</i></b></h1>
+<h1><b><i>INSTALL QUEEN THARU MD BOT</i></b></h1>
   
 ### SCAN QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Shewon/SHEWON-MD-BOT?v=1?outputonly=1&lite=1)
@@ -72,4 +72,4 @@
 
 
 ----
-<div align="center"><h1> SHEWON MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/CyberKing4"><img src="https://i.ibb.co/N903kqX/ab6f24d2-ae33-498a-b0f5-d1e2eb7fb37a.gif" width="300"></a></div>  
+<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/CyberKing4"><img src="https://i.ibb.co/N903kqX/ab6f24d2-ae33-498a-b0f5-d1e2eb7fb37a.gif" width="300"></a></div>  
