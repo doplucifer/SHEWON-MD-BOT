@@ -72,4 +72,4 @@
 
 
 ----
-<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/CyberKing4"><img src="https://i.ibb.co/N903kqX/ab6f24d2-ae33-498a-b0f5-d1e2eb7fb37a.gif" width="300"></a></div>  
+<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/CyberKing4"><img src="https://i.ibb.co/QQQK9sG/20220810-222227.png" width="300"></a></div>  
