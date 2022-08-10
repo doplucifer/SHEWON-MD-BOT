@@ -49,7 +49,7 @@
 
 > Now Upload your session.json file
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/CyberKing4/SHEWON-MD-BOT.git and change CyberKing4/SHEWON-MD-BOT with your user name and repo name
+> Now Copy This Url https://heroku.com/deploy?template=https://github.com/CyberKing4/SHEWON-MD-BOT.git and change CyberKing4/SQUEEN THARU-MD-BOT with your user name and repo name
 
 > Now Deploy SHEWON MD With Your Url.
 
