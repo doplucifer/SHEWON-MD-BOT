@@ -24,8 +24,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/CyberKing4">
-<img src="https://img.shields.io/static/v1?label=Developer&message=Shewon%20&color=purple&style=plastic">
-<a href="http://wa.me//+94784997828"><img src="https://img.shields.io/badge/Owner-WhatsApp-green">
+<img src="https://img.shields.io/static/v1?label=Developer&message=Lucifer%20&color=pink&style=plastic">
+<a href="http://wa.me//+94758512807"><img src="https://img.shields.io/badge/Owner-WhatsApp-green">
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Owner-Telegram-blue">
 <a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://img.shields.io/badge/Owner-YouTube-pink">
 <a href="https://github.com/CyberKing4/SHEWON-MD-BOT/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/CyberKing4/SHEWON-MD-BOT.svg">
