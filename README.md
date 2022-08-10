@@ -1,20 +1,20 @@
-# <b><tt><i>SHEWON-MD-BOT</i></b></tt>
+# <b><tt><i>QUEEN THARU-MD-BOT</i></b></tt>
 <br>
 
 [![Typing SVG](https://bit.ly/3aPnjLk)](https://git.io/typing-svg)
 <br>
 
-<a href="https://github.com/CyberKing4">![SHEWON BOT](https://img.shields.io/badge/SHEWON%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
+<a href="https://github.com/CyberKing4">![QUEEN THARU BOT](https://img.shields.io/badge/SHEWON%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
 <div align="center"> 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 <div align="center">
   <a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q">
-<img src="https://telegra.ph/file/640ec55270602dfad216b.jpg" width="300" height="300">
+<img src="https://telegra.ph/file/158d25fde9583014dd5a0.jpg" width="300" height="300">
 <div align="center">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
- <h1><b><i>SHEWON MULTI DEVICE BOT</i></b></h1>
+ <h1><b><i>QUEEN THARU MULTI DEVICE BOT</i></b></h1>
   
 <br>
 <img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY SHEWON ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
