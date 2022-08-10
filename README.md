@@ -49,9 +49,9 @@
 
 > Now Upload your session.json file
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/CyberKing4/SHEWON-MD-BOT.git and change CyberKing4/SQUEEN THARU-MD-BOT with your user name and repo name
+> Now Copy This Url https://heroku.com/deploy?template=https://github.com/CyberKing4/SHEWON-MD-BOT.git and change CyberKing4/QUEEN THARU-MD-BOT with your user name and repo name
 
-> Now Deploy SHEWON MD With Your Url.
+> Now Deploy QUEEN THARU MD With Your Url.
 
 > more ... ↓↓↓
 
@@ -72,4 +72,4 @@
 
 
 ----
-<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/CyberKing4"><img src="https://i.ibb.co/QQQK9sG/20220810-222227.png" width="300"></a></div>  
+<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/doplucifer"><img src="https://i.ibb.co/QQQK9sG/20220810-222227.png" width="300"></a></div>  
