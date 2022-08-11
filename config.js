@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮QUEEN-THARU-MD-BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +94 75 851 2807
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
+//┃THANKS FOR CHOOSING QUEEN THARU BOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
+global.owner = ['94758512807','']
+global.premium = ['94758512807','1438600887']
+global.botname = 'QUEEN-THARU-MD-BOT'
+global.ownername = 'Lucifer'
 global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
 global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
+global.packname = 'QUEEN-THARU-MD-BOT'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,22 +65,22 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'SHEWON'
+global.author = 'LUCIFER'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
+    success: '*success ✔*',
+        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay🙂*',
     horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*wait shewon bot processing*',
+    admin: '*this cmd is for admin only , l can feel you but sorry okay😜😒🥱*',
+    botAdmin: '*with due respect can you please give bot adminship😐*',
+    owner: '*this cmd is for bot owner only , l can feel you but sorry okay😐🥱*',
+    group: '*this feature is only for groups okay😒*',
+    private: '*this feature can only used in dm okay😒*',
+    bot: '*Special Features for User Bot Number okay🥱*',
+    wait: '*wait queen tharu bot processing😘*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://telegra.ph/file/1d1666e0f11a7a0c2f3f4.mp4' }
-global.vid = { url: 'https://telegra.ph/file/1d1666e0f11a7a0c2f3f4.mp4' }
+global.visoka = { url: 'https://telegra.ph/file/158d25fde9583014dd5a0.jpg' }
+global.vid = { url: 'https://telegra.ph/file/158d25fde9583014dd5a0.jpg' }
 
 //—————「 Set Random Image Menu 」—————//
 
