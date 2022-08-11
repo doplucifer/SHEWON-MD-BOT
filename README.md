@@ -1,10 +1,10 @@
-# <b><tt><i>QUEEN THARU-MD-BOT</i></b></tt>
+# <b><tt><i>QUEEN-THARU-MD-BOT</i></b></tt>
 <br>
 
 [![Typing SVG](https://bit.ly/3aPnjLk)](https://git.io/typing-svg)
 <br>
 
-<a href="https://github.com/CyberKing4">![QUEEN THARU BOT](https://img.shields.io/badge/THARU%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
+<a href="https://github.com/doplucifer">![QUEEN-THARU-MD-BOT](https://img.shields.io/badge/THARU%20Bot-OWNER-52b5f7?style=for-the-badge&logo=discord%20alexa&logowhite=white)
 <div align="center"> 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
@@ -19,22 +19,22 @@
 <br>
 <img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY LUCIFER ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
 <br><div algin="center"><img src=
-      "https://profile-counter.glitch.me/CyberKing4/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
+      "https://profile-counter.glitch.me/doplucifer/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
 <p align="center">
 <br>
 <div align="center">
-<a href="https://github.com/CyberKing4">
-<img src="https://img.shields.io/static/v1?label=Developer&message=Lucifer%20&color=pink&style=plastic">
+<a href="https://github.com/doplucifer">
+<img src="https://img.shields.io/static/v1?label=Developer&message=Lucifer%20&color=red&style=plastic">
 <a href="http://wa.me//+94758512807"><img src="https://img.shields.io/badge/Owner-WhatsApp-green">
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Owner-Telegram-blue">
-<a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://img.shields.io/badge/Owner-YouTube-pink">
-<a href="https://github.com/CyberKing4/SHEWON-MD-BOT/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/CyberKing4/SHEWON-MD-BOT.svg">
-<a href="https://github.com/CyberKing4/SHEWON-MD-BOT/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/CyberKing4/SHEWON-MD-BOT.svg">
-<a href="https://github.com/CyberKing2/SHEWON-MD-BOT/edit/main/README.md"><img src="https://badge-size.herokuapp.com/CyberKing4/SHEWON-MD-BOT/main/README.md">	
+<a href="https://www.youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q"><img src="https://img.shields.io/badge/Owner-YouTube-yellow">
+<a href="https://github.com/doplucifer/QUEEN-THARU-MD-BOT/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/doplucifer/QUEEN-THARU-MD-BOT.svg">
+<a href="https://github.com/doplucifer/QUEEN-THARU-MD-BOT/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/doplucifer/QUEEN-THARU-MD-BOT.svg">
+<a href="https://github.com/doplucifer/QUEEN-THARU-MD-BOT/edit/main/README.md"><img src="https://badge-size.herokuapp.com/doplucifer/QUEEN-THARU-MD-BOT/main/README.md">	
 
 [![License: GPL v3](https://img.shields.io/badge/License-CCOv1-blue.svg)](https://www.gnu.org/licenses/cco-1.0)
   
-<img src="https://github-readme-stats.vercel.app/api?username=CyberKing4&theme=blue-green"> 
+<img src="https://github-readme-stats.vercel.app/api?username=doplucifer&theme=blue-green"> 
 
 <div align="left">
 
@@ -45,13 +45,13 @@
 
 > Scan The Qr Code.
 
-> Now Click The [Fork](https://github.com/CyberKing4/SHEWON-MD-BOT/fork)
+> Now Click The [Fork](https://github.com/doplucifer/QUEEN-THARU-MD-BOT/fork)
 
 > Now Upload your session.json file
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/CyberKing4/SHEWON-MD-BOT.git and change CyberKing4/QUEEN THARU-MD-BOT with your user name and repo name
+> Now Copy This Url https://heroku.com/deploy?template=https://github.com/doplucifer/QUEEN-THARU-MD-BOT.git and change doplucifer/QUEEN-THARU-MD-BOT with your user name and repo name
 
-> Now Deploy QUEEN THARU MD With Your Url.
+> Now Deploy QUEEN-THARU-MD-BOT With Your Url.
 
 > more ... ↓↓↓
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<h1><b><i>INSTALL QUEEN THARU MD BOT</i></b></h1>
+<h1><b><i>INSTALL QUEEN-THARU-MD-BOT</i></b></h1>
   
 ### SCAN QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Shewon/SHEWON-MD-BOT?v=1?outputonly=1&lite=1)
@@ -72,4 +72,4 @@
 
 
 ----
-<div align="center"><h1> QUEEN THARU MD IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/doplucifer"><img src="https://i.ibb.co/QQQK9sG/20220810-222227.png" width="300"></a></div>  
+<div align="center"><h1> QUEEN-THARU-MD-BOT IS A POWERFULL BOT FOR WHATSAPP </h1><a href="https://github.com/doplucifer"><img src="https://i.ibb.co/QQQK9sG/20220810-222227.png" width="300"></a></div>  
