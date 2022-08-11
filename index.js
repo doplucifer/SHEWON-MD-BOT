@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮QUEEN THARU MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮QUEEN-THARU-MD-BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING THARU-BOT
+//┃THANKS FOR CHOOSING QUEEN THARU BOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -157,7 +157,7 @@ mentions: [num],
 fileName: `Welcome To ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©QUEEN THARU MD BOT 2022`,
+footer: `©QUEEN-THARU-MD-BOT 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -185,12 +185,12 @@ mentions: [num],
 fileName: `He/She is gone bro ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©QUEEN THARU MD BOT 2022`,
+footer: `©QUEEN-THARU-MD-BOT 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `BYE DONT COME BACK HERE OKAY`,
-body: `SUBSCRIBE THARU OFC`,
+body: `SUBSCRIBE LUCIFER OFC`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
