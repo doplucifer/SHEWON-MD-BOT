@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮QUEEN THARU MD BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +94 75 851 2807
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING SHEWON-BOT
+//┃THANKS FOR CHOOSING THARU-BOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -157,12 +157,12 @@ mentions: [num],
 fileName: `Welcome To ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©SHEWON MD BOT 2022`,
+footer: `©QUEEN THARU MD BOT 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Don't forget to smile today`,
-body: `SUBSCRIBE SHEWON OFC`,
+body: `SUBSCRIBE THARU OFC`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -185,12 +185,12 @@ mentions: [num],
 fileName: `He/She is gone bro ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©SHEWON MD BOT 2022`,
+footer: `©QUEEN THARU MD BOT 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `BYE DONT COME BACK HERE OKAY`,
-body: `SUBSCRIBE SHEWON OFC`,
+body: `SUBSCRIBE THARU OFC`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
