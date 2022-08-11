@@ -1,8 +1,8 @@
 {
-  "name": "SHEWON-MD-BOT",
+  "name": "QUEEN-THARU-MD-BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/CyberKing4/SHEWON-MD-BOT",
-  "logo": "https://telegra.ph/file/640ec55270602dfad216b.jpg",
+  "repository": "https://github.com/doplucifer/QUEEN-THARU-MD-BOT",
+  "logo": "https://telegra.ph/file/158d25fde9583014dd5a0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
